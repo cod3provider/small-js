@@ -249,19 +249,25 @@
 // Даны два целых числа.
 // Проверьте, что первое число без остатка делится на второе.
 
+//
+// const number1 = 100;
+// const number2 = 50;
+// const number3 = 150;
+//
+// function sum(num1, num2) {
+// 	if (num1 % num2 === 0) {
+// 		return 'Ok';
+// 	}
+//
+// 	return 'Not ok';
+// }
+//
+// console.log(sum(number1,number2));
+// console.log(sum(number3, number2));
+// console.log(sum(number3, number1));
 
-const number1 = 100;
-const number2 = 50;
-const number3 = 150;
 
-function sum(num1, num2) {
-	if (num1 % num2 === 0) {
-		return 'Ok';
-	}
 
-	return 'Not ok';
-}
 
-console.log(sum(number1,number2));
-console.log(sum(number3, number2));
-console.log(sum(number3, number1));
+
+
