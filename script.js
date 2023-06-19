@@ -266,8 +266,3 @@
 // console.log(sum(number3, number2));
 // console.log(sum(number3, number1));
 
-
-
-
-
-
