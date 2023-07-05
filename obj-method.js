@@ -84,12 +84,12 @@
 // );
 
 // Давайте найдем сумму все положительных чисел массива:
-let arr = [1, -2, -3, 4, 5, -6];
+// let arr = [1, -2, -3, 4, 5, -6];
 
-console.log(
-  arr
-    .filter((value) => value > 0)
-    .reduce((acc, item) => {
-      return (acc += item);
-    }, 0)
-);
+// console.log(
+//   arr
+//     .filter((value) => value > 0)
+//     .reduce((acc, item) => {
+//       return (acc += item);
+//     }, 0)
+// );
